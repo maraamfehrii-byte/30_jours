@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_curry_pois_chiches.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\curry_pois_chiches.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_mousse_chocolat.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\mousse_chocolat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_tarte_pommes.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\tarte_pommes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_couscous.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\couscous.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_gateau_yaourt.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\gateau_yaourt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_taboule.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\taboule.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_soupe_lentilles.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\soupe_lentilles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_chakchouka.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\chakchouka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_poisson_papillote.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\poisson_papillote.jpg"
+    },
+    {
+        "merged": "com.example.trentejours.app-debug-43:/drawable_curry_pois_chiches.jpg.flat",
+        "source": "com.example.trentejours.app-main-45:/drawable/curry_pois_chiches.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_houmous.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\houmous.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_lasagnes.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\lasagnes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_quiche.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\quiche.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_brik_thon.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\brik_thon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_pancakes.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\pancakes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_risotto.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\risotto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_salade_caprese.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\salade_caprese.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_poulet_roti.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\poulet_roti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_pates_tomate.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\pates_tomate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_creme_caramel.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\creme_caramel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_pizza.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\pizza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_ratatouille.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\ratatouille.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_cookies.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\cookies.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_wok_legumes.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\wok_legumes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_salade_fruits.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\salade_fruits.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_crepes.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\crepes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_guacamole.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\guacamole.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_curry_pois_chichies.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\curry_pois_chichies.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_soupe_potiron.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\soupe_potiron.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_pain_perdu.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\pain_perdu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_omelette.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\omelette.jpg"
+    },
+    {
+        "merged": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-debug-43:\\drawable_gratin_dauphinois.jpg.flat",
+        "source": "C:\\Users\\fehri\\.gradle\\daemon\\8.7\\com.example.trentejours.app-main-45:\\drawable\\gratin_dauphinois.jpg"
+    }
+]
